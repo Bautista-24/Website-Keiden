@@ -1,0 +1,54 @@
+* {
+    margin: 10;
+    padding: 10; 
+    font-family: cursive;
+}
+
+
+body {
+    text-align: center;
+    background: lightskyblue;
+}
+
+header {
+    background: yellow;
+    padding: 10px 0;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    justify-content: center; 
+}
+
+.navbar li {
+    margin: 0 50px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.hero {
+    padding: 50px;
+}
+
+
+footer {
+    background: yellow;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-family: papyrus;
+    color: gold;
+}
+
+p {
+    color: white;
+    font-size: larger;
+}
